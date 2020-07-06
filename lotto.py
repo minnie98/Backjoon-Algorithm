@@ -3,7 +3,6 @@
 ### No.6603               ###
 #############################
 
-
 from itertools import combinations
 
 while True:
