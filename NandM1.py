@@ -3,7 +3,6 @@
 ### No.15649              ###
 #############################
 
-
 # N, M = map(int, input().split())
 # visited = [False for i in range(N)]
 # out = []
