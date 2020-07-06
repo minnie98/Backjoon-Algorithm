@@ -1,3 +1,8 @@
+#############################
+### Backjoon Algorithm    ###    
+### No.1759               ###
+#############################
+
 from itertools import combinations
 
 L,C = map(int, input().split())
