@@ -21,7 +21,6 @@ Q = deque()
 
 def BFS():
     global cnt
-    # Q.append([row, col])
     while Q:
         cnt += 1
         for _ in range(len(Q)):
